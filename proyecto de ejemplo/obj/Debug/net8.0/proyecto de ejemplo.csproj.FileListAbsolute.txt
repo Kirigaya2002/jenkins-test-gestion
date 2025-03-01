@@ -1,0 +1,15 @@
+D:\-------------------UCR-----------------------------\Investigación-Jenkins\jenkins-test-gestion\proyecto de ejemplo\bin\Debug\net8.0\proyecto de ejemplo.exe
+D:\-------------------UCR-----------------------------\Investigación-Jenkins\jenkins-test-gestion\proyecto de ejemplo\bin\Debug\net8.0\proyecto de ejemplo.deps.json
+D:\-------------------UCR-----------------------------\Investigación-Jenkins\jenkins-test-gestion\proyecto de ejemplo\bin\Debug\net8.0\proyecto de ejemplo.runtimeconfig.json
+D:\-------------------UCR-----------------------------\Investigación-Jenkins\jenkins-test-gestion\proyecto de ejemplo\bin\Debug\net8.0\proyecto de ejemplo.dll
+D:\-------------------UCR-----------------------------\Investigación-Jenkins\jenkins-test-gestion\proyecto de ejemplo\bin\Debug\net8.0\proyecto de ejemplo.pdb
+D:\-------------------UCR-----------------------------\Investigación-Jenkins\jenkins-test-gestion\proyecto de ejemplo\obj\Debug\net8.0\proyecto de ejemplo.GeneratedMSBuildEditorConfig.editorconfig
+D:\-------------------UCR-----------------------------\Investigación-Jenkins\jenkins-test-gestion\proyecto de ejemplo\obj\Debug\net8.0\proyecto de ejemplo.AssemblyInfoInputs.cache
+D:\-------------------UCR-----------------------------\Investigación-Jenkins\jenkins-test-gestion\proyecto de ejemplo\obj\Debug\net8.0\proyecto de ejemplo.AssemblyInfo.cs
+D:\-------------------UCR-----------------------------\Investigación-Jenkins\jenkins-test-gestion\proyecto de ejemplo\obj\Debug\net8.0\proyecto de ejemplo.csproj.CoreCompileInputs.cache
+D:\-------------------UCR-----------------------------\Investigación-Jenkins\jenkins-test-gestion\proyecto de ejemplo\obj\Debug\net8.0\proyecto de ejemplo.sourcelink.json
+D:\-------------------UCR-----------------------------\Investigación-Jenkins\jenkins-test-gestion\proyecto de ejemplo\obj\Debug\net8.0\proyecto de ejemplo.dll
+D:\-------------------UCR-----------------------------\Investigación-Jenkins\jenkins-test-gestion\proyecto de ejemplo\obj\Debug\net8.0\refint\proyecto de ejemplo.dll
+D:\-------------------UCR-----------------------------\Investigación-Jenkins\jenkins-test-gestion\proyecto de ejemplo\obj\Debug\net8.0\proyecto de ejemplo.pdb
+D:\-------------------UCR-----------------------------\Investigación-Jenkins\jenkins-test-gestion\proyecto de ejemplo\obj\Debug\net8.0\proyecto de ejemplo.genruntimeconfig.cache
+D:\-------------------UCR-----------------------------\Investigación-Jenkins\jenkins-test-gestion\proyecto de ejemplo\obj\Debug\net8.0\ref\proyecto de ejemplo.dll
