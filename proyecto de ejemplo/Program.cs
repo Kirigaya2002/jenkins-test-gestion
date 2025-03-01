@@ -1,5 +1,4 @@
-﻿// Program.cs
-using System;
+﻿using System;
 using System.Text.RegularExpressions;
 
 IPasswordValidator validator = new PasswordValidator();

@@ -684,6 +684,16 @@
             "related": ".xml"
           }
         }
+      },
+      "proyecto de ejemplo/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "compile": {
+          "bin/placeholder/proyecto de ejemplo.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/proyecto de ejemplo.dll": {}
+        }
       }
     }
   },
@@ -1643,12 +1653,18 @@
         "useSharedDesignerContext.txt",
         "version.txt"
       ]
+    },
+    "proyecto de ejemplo/1.0.0": {
+      "type": "project",
+      "path": "../proyecto de ejemplo/proyecto de ejemplo.csproj",
+      "msbuildProject": "../proyecto de ejemplo/proyecto de ejemplo.csproj"
     }
   },
   "projectFileDependencyGroups": {
     "net8.0": [
       "MSTest >= 3.6.4",
-      "Microsoft.NET.Test.Sdk >= 17.12.0"
+      "Microsoft.NET.Test.Sdk >= 17.12.0",
+      "proyecto de ejemplo >= 1.0.0"
     ]
   },
   "packageFolders": {
@@ -1682,7 +1698,11 @@
       "frameworks": {
         "net8.0": {
           "targetAlias": "net8.0",
-          "projectReferences": {}
+          "projectReferences": {
+            "D:\\-------------------UCR-----------------------------\\Investigación-Jenkins\\jenkins-test-gestion\\proyecto de ejemplo\\proyecto de ejemplo.csproj": {
+              "projectPath": "D:\\-------------------UCR-----------------------------\\Investigación-Jenkins\\jenkins-test-gestion\\proyecto de ejemplo\\proyecto de ejemplo.csproj"
+            }
+          }
         }
       },
       "warningProperties": {
